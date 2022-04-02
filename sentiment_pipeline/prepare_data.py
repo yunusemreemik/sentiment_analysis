@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Apr  1 12:40:14 2021
-
-@author: ozcan
-"""
 import os
 import logging
 from dataclasses import dataclass, field

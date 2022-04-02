@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Apr  1 14:09:15 2021
-
-@author: ozcan
-"""
-
 from typing import Dict, List, Optional
 
 import torch

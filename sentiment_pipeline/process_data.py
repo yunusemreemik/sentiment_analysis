@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Apr  1 11:23:04 2021
-
-@author: ozcan
-"""
-
 import json
 import logging
 import os

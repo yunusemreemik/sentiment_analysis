@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Apr  1 14:14:20 2021
-
-@author: ozcan
-"""
-
 from typing import Callable, Dict, Iterable, List
 from torch import nn
 

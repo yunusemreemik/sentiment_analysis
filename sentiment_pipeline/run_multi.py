@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Apr  1 14:15:30 2021
-
-@author: ozcan
-"""
-
 import dataclasses
 import json
 import logging
